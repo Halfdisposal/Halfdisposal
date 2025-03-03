@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Halfdisposal
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Intermediate Python
+- 🌱 I have some knowledge in Intermediate Python and am currently learning C++
 - 😄 Pronouns: He
 - ⚡ Fun fact: Although not very experienced. Hope to do my best. 
 
