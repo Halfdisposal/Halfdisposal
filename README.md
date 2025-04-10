@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Halfdisposal
-- 👀 I’m interested in Machine Learning
-- 😄 Pronouns: He
-- ⚡ Fun fact: Although not very experienced. Hope to do my best. 
+# Hi there, I'm Halfdisposal! 👋
 
-<!---
-Halfdisposal/Halfdisposal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=Halfdisposal&color=green&style=for-the-badge)
+
+
+## About Me
+
+- **Pronouns:** He/Him
+- **Currently Learning:** Machine Learning 🤖
+- **Passionate About:** Exploring data, building intelligent models, and continuous learning.
+
+## GitHub Stats
+
+![Halfdisposal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Halfdisposal&show_icons=true&theme=radical)
+
+
+Feel free to reach out for collaborations or just to say hi! Let's learn and grow together. 💬
